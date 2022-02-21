@@ -6,6 +6,7 @@
 ### Our Team-
 ##### 🔹 PlusFlippy (Owner)
 ##### 🔹 PixelKing (Co-Owner) 
+##### 🔹 PawanDewmina (Artist) 
 
 ### Our Socials-
 ##### Discord- https://dsc.gg/custommap
