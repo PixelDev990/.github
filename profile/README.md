@@ -1,5 +1,3 @@
-<center> <img src = "https://capsule-render.vercel.app/api?type=waving&color=gradient&height=210&section=header&text=CustomMap&fontSize=65&fontAlignY=35&animation=twinkling&fontColor=gradient&desc=Custom Among Us Map Makers&descSize=200)"></img> </center>
-
 ## CustomMap is a group of people making Among Us Custom Maps (Without Using LevelImposter)
 
 ## Our Languages-
