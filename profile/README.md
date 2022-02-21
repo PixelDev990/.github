@@ -1,1 +1,1 @@
-CustomMap.Net Is Owner By ANONYMUS, He Never Commits Anything !!
+CustomMap Is Owner By ANONYMUS, He Never Commits Anything !!
